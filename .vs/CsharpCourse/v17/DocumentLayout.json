@@ -3,15 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DD68E335-5231-45A8-B898-11E47BC19DCF}|Loops\\Loops.csproj|c:\\users\\onur\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\repos\\csharpcourse\\loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD68E335-5231-45A8-B898-11E47BC19DCF}|Loops\\Loops.csproj|solutionrelative:loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651E1C3E-E68B-4814-BC06-57DFE2C3F7B9}|Arrays\\Arrays.csproj|c:\\users\\onur\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\repos\\csharpcourse\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651E1C3E-E68B-4814-BC06-57DFE2C3F7B9}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{54B32C97-4881-4D40-BD0F-747FD520DADA}|Methods\\Methods.csproj|c:\\users\\onur\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\repos\\csharpcourse\\methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54B32C97-4881-4D40-BD0F-747FD520DADA}|Methods\\Methods.csproj|solutionrelative:methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74C0033C-F27E-4E3C-9823-9DD991E6FFD6}|Conditionals\\Conditionals.csproj|c:\\users\\onur\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\repos\\csharpcourse\\conditionals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7E64FC3-667F-4591-94DB-CCF4B63BA4CE}|CallingMethods\\CallingMethods.csproj|c:\\users\\onur\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\repos\\csharpcourse\\callingmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E64FC3-667F-4591-94DB-CCF4B63BA4CE}|CallingMethods\\CallingMethods.csproj|solutionrelative:callingmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C0033C-F27E-4E3C-9823-9DD991E6FFD6}|Conditionals\\Conditionals.csproj|C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\conditionals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74C0033C-F27E-4E3C-9823-9DD991E6FFD6}|Conditionals\\Conditionals.csproj|solutionrelative:conditionals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{174AAF63-0968-4D61-AE98-6E35D2C53863}|TypesAndVariables\\TypesAndVariables.csproj|c:\\users\\onur\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\repos\\csharpcourse\\typesandvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{174AAF63-0968-4D61-AE98-6E35D2C53863}|TypesAndVariables\\TypesAndVariables.csproj|C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\typesandvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{174AAF63-0968-4D61-AE98-6E35D2C53863}|TypesAndVariables\\TypesAndVariables.csproj|solutionrelative:typesandvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,13 +44,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\Methods\\Program.cs",
-              "RelativeDocumentMoniker": "Methods\\Program.cs",
-              "ToolTip": "C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\Methods\\Program.cs",
-              "RelativeToolTip": "Methods\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "DocumentMoniker": "C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\Loops\\Program.cs",
+              "RelativeDocumentMoniker": "Loops\\Program.cs",
+              "ToolTip": "C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\Loops\\Program.cs",
+              "RelativeToolTip": "Loops\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:31:43.547Z",
+              "WhenOpened": "2024-06-29T14:54:05.978Z",
               "EditorCaption": ""
             },
             {
@@ -49,18 +61,56 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\Arrays\\Program.cs",
+              "RelativeToolTip": "Arrays\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:18:25.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\CallingMethods\\Program.cs",
+              "RelativeDocumentMoniker": "CallingMethods\\Program.cs",
+              "ToolTip": "C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\CallingMethods\\Program.cs",
+              "RelativeToolTip": "CallingMethods\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T11:49:33.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\Methods\\Program.cs",
+              "RelativeDocumentMoniker": "Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\Methods\\Program.cs",
+              "RelativeToolTip": "Methods\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:31:43.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\Conditionals\\Program.cs",
               "RelativeDocumentMoniker": "Conditionals\\Program.cs",
               "ToolTip": "C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\Conditionals\\Program.cs",
               "RelativeToolTip": "Conditionals\\Program.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAAADMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T16:47:45.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T16:47:45.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\TypesAndVariables\\Program.cs",
               "RelativeDocumentMoniker": "TypesAndVariables\\Program.cs",
@@ -68,8 +118,7 @@
               "RelativeToolTip": "TypesAndVariables\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T16:26:45.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T16:26:45.915Z"
             }
           ]
         }

@@ -1,0 +1,7 @@
+C:\Users\Onur\Desktop\Çalışmalarım\Repos\CsharpCourse\CallingMethods\bin\Debug\CallingMethods.exe.config
+C:\Users\Onur\Desktop\Çalışmalarım\Repos\CsharpCourse\CallingMethods\bin\Debug\CallingMethods.exe
+C:\Users\Onur\Desktop\Çalışmalarım\Repos\CsharpCourse\CallingMethods\bin\Debug\CallingMethods.pdb
+C:\Users\Onur\Desktop\Çalışmalarım\Repos\CsharpCourse\CallingMethods\obj\Debug\CallingMethods.csproj.AssemblyReference.cache
+C:\Users\Onur\Desktop\Çalışmalarım\Repos\CsharpCourse\CallingMethods\obj\Debug\CallingMethods.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\Çalışmalarım\Repos\CsharpCourse\CallingMethods\obj\Debug\CallingMethods.exe
+C:\Users\Onur\Desktop\Çalışmalarım\Repos\CsharpCourse\CallingMethods\obj\Debug\CallingMethods.pdb

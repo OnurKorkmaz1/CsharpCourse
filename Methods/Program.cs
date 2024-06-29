@@ -16,6 +16,11 @@ namespace Methods
             Add();
             Add();
             
+            int number1 = 20;
+            int number2 = 100;
+           
+
+            var result2 = add3(number1, number2);
             var result = Add2(20, 10);
             Console.ReadLine();
 
@@ -30,6 +35,12 @@ namespace Methods
             var result =number1 + number2; 
             return result;
 
+        }
+        static int add3(int number1, int number2) 
+        {
+            number1 = 30;             // burada yazılan değer yukarıdaki number1 değerini bağlamaz. sadece add3 methodunu belirler.
+                                      // Aksi bir şey olsun istiyorsak ref kullanmalıyız.
+            return number1 + number2;
         }
     }
 }
