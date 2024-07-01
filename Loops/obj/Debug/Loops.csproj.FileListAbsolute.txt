@@ -1,0 +1,7 @@
+C:\Users\Onur\Desktop\Çalışmalarım\Repos\CsharpCourse\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\Onur\Desktop\Çalışmalarım\Repos\CsharpCourse\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\Çalışmalarım\Repos\CsharpCourse\Loops\bin\Debug\Loops.exe.config
+C:\Users\Onur\Desktop\Çalışmalarım\Repos\CsharpCourse\Loops\bin\Debug\Loops.exe
+C:\Users\Onur\Desktop\Çalışmalarım\Repos\CsharpCourse\Loops\bin\Debug\Loops.pdb
+C:\Users\Onur\Desktop\Çalışmalarım\Repos\CsharpCourse\Loops\obj\Debug\Loops.exe
+C:\Users\Onur\Desktop\Çalışmalarım\Repos\CsharpCourse\Loops\obj\Debug\Loops.pdb
