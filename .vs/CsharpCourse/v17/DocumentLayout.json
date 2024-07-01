@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{148FF1A2-F13E-481A-86E7-18A123712574}|RecapDemo1\\RecapDemo1.csproj|c:\\users\\onur\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\repos\\csharpcourse\\recapdemo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148FF1A2-F13E-481A-86E7-18A123712574}|RecapDemo1\\RecapDemo1.csproj|solutionrelative:recapdemo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148FF1A2-F13E-481A-86E7-18A123712574}|RecapDemo1\\RecapDemo1.csproj|c:\\users\\onur\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\repos\\csharpcourse\\recapdemo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{148FF1A2-F13E-481A-86E7-18A123712574}|RecapDemo1\\RecapDemo1.csproj|solutionrelative:recapdemo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BCCE9E23-4193-4CB3-9836-FFA9838DDE05}|Classes\\Classes.csproj|c:\\users\\onur\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\repos\\csharpcourse\\classes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCCE9E23-4193-4CB3-9836-FFA9838DDE05}|Classes\\Classes.csproj|solutionrelative:classes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCCE9E23-4193-4CB3-9836-FFA9838DDE05}|Classes\\Classes.csproj|c:\\users\\onur\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\repos\\csharpcourse\\classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BCCE9E23-4193-4CB3-9836-FFA9838DDE05}|Classes\\Classes.csproj|C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCCE9E23-4193-4CB3-9836-FFA9838DDE05}|Classes\\Classes.csproj|solutionrelative:classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,15 +26,44 @@
       "DocumentGroups": [
         {
           "DockedHeight": 327,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\RecapDemo1\\Form1.cs",
+              "RelativeDocumentMoniker": "RecapDemo1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\RecapDemo1\\Form1.cs",
+              "RelativeToolTip": "RecapDemo1\\Form1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T19:43:55.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\RecapDemo1\\Form1.cs",
+              "RelativeDocumentMoniker": "RecapDemo1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\RecapDemo1\\Form1.cs [Design]",
+              "RelativeToolTip": "RecapDemo1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T19:42:31.907Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\Classes\\Customer.cs",
               "RelativeDocumentMoniker": "Classes\\Customer.cs",
@@ -39,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\Classes\\Program.cs",
               "RelativeDocumentMoniker": "Classes\\Program.cs",
@@ -47,8 +84,7 @@
               "RelativeToolTip": "Classes\\Program.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAgwCYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T19:05:26.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T19:05:26.282Z"
             }
           ]
         }
