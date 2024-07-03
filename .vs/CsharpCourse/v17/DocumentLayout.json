@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{148FF1A2-F13E-481A-86E7-18A123712574}|RecapDemo1\\RecapDemo1.csproj|solutionrelative:recapdemo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{148FF1A2-F13E-481A-86E7-18A123712574}|RecapDemo1\\RecapDemo1.csproj|c:\\users\\onur\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\repos\\csharpcourse\\recapdemo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{148FF1A2-F13E-481A-86E7-18A123712574}|RecapDemo1\\RecapDemo1.csproj|C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\recapdemo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{148FF1A2-F13E-481A-86E7-18A123712574}|RecapDemo1\\RecapDemo1.csproj|solutionrelative:recapdemo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCCE9E23-4193-4CB3-9836-FFA9838DDE05}|Classes\\Classes.csproj|c:\\users\\onur\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\repos\\csharpcourse\\classes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BCCE9E23-4193-4CB3-9836-FFA9838DDE05}|Classes\\Classes.csproj|C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\classes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCCE9E23-4193-4CB3-9836-FFA9838DDE05}|Classes\\Classes.csproj|solutionrelative:classes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -26,15 +26,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 327,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
@@ -44,10 +40,14 @@
               "RelativeDocumentMoniker": "RecapDemo1\\Form1.cs",
               "ToolTip": "C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\RecapDemo1\\Form1.cs",
               "RelativeToolTip": "RecapDemo1\\Form1.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAIwBsAAAANAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwCIAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T19:43:55.465Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
@@ -58,8 +58,7 @@
               "ToolTip": "C:\\Users\\Onur\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Repos\\CsharpCourse\\RecapDemo1\\Form1.cs [Design]",
               "RelativeToolTip": "RecapDemo1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T19:42:31.907Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-01T19:42:31.907Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "Classes\\Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T19:23:46.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T19:23:46.871Z"
             },
             {
               "$type": "Document",
